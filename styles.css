@@ -35,3 +35,10 @@ p {
 img {
     max-width: 90%;
 }
+
+header {
+    background: var(--primary-color);
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
