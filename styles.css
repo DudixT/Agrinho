@@ -63,7 +63,7 @@ nav ul {
 nav ul li { 
     text-align: center;
     display: inline;
-    margin: 0 15px;
+    margin: 15px;
 }
 
 ul li a {
