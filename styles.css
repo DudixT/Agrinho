@@ -63,10 +63,9 @@ nav ul {
 nav ul li { 
     text-align: center;
     display: inline;
-    margin: 15px;
 }
 
-ul li a {
+nav ul li a {
     color: white;
     text-decoration: none;
 }
