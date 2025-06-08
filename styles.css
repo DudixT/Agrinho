@@ -68,7 +68,6 @@ ul li {
 nav ul li a {
     color: rgb(2, 50, 112);
     text-decoration: none;
-    align: center;
 }
 
 @media (max-width: 768px) {
@@ -90,3 +89,4 @@ nav ul li a {
         width: 100%;
     }
 }
+
