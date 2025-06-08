@@ -5,7 +5,7 @@
     --secondary-color: #3CA6A6;
     --text-color: #024959;
     --background-color: #F2E3D5;
-    --buttom-hover: #012E40;
+    --bottom-hover: #012E40;
     --font-body: "Chocolate Classical Sans", serif;
     --font-titulo: "Rakkas", serif;
 }
@@ -52,7 +52,7 @@ header {
 
 header h1{
     font-family: var(--font-titulo);
-    margin-buttom: 10px;
+    margin-bottom: 10px;
 }
 
 nav ul {
@@ -66,8 +66,9 @@ ul li {
 }
 
 nav ul li a {
-    color: white;
+    color: rgb(2, 50, 112);
     text-decoration: none;
+    align: center;
 }
 
 @media (max-width: 768px) {
